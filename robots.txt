@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ebcomley.github.io/fuzzy-couscous/sitemap.xml

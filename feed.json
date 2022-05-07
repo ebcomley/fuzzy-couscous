@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "me",
+    "description": "",
+    "home_page_url": "https://ebcomley.github.io/fuzzy-couscous",
+    "feed_url": "https://ebcomley.github.io/fuzzy-couscous/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Edward Comley"
+    },
+    "items": [
+    ]
+}

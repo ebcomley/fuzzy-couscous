@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://ebcomley.github.io/fuzzy-couscous/data-to-discovery.html",
-            "url": "https://ebcomley.github.io/fuzzy-couscous/data-to-discovery.html",
-            "title": "Data to discovery",
-            "summary": "ZOE personalised nutrition program from the world's largest nutrition-science study. I'm in.",
-            "content_html": "<p>ZOE personalised nutrition program from the world's largest nutrition-science study.</p>\n<p>I'm in.</p>",
-            "author": {
-                "name": "Edward Comley"
-            },
-            "tags": [
-                   "zoe"
-            ],
-            "date_published": "2022-10-15T14:49:39+01:00",
-            "date_modified": "2022-10-15T14:54:51+01:00"
-        },
-        {
             "id": "https://ebcomley.github.io/fuzzy-couscous/about-me.html",
             "url": "https://ebcomley.github.io/fuzzy-couscous/about-me.html",
             "title": "About me",

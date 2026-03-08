@@ -3,10 +3,22 @@
     <title>@ebcomley Wales, UK.</title>
     <link href="https://www.ebcomley.com/feed.xml" rel="self" />
     <link href="https://www.ebcomley.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-03-08T10:25:44+00:00</updated>
     <author>
         <name>Edward Comley</name>
     </author>
     <id>https://www.ebcomley.com</id>
 
+    <entry>
+        <title>Upgrade, test and deploy. Repeat.</title>
+        <author>
+            <name>Edward Comley</name>
+        </author>
+        <link href="https://www.ebcomley.com/upgrade-test-and-deploy-repeat/"/>
+        <id>https://www.ebcomley.com/upgrade-test-and-deploy-repeat/</id>
+
+        <updated>2022-05-07T09:55:18+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

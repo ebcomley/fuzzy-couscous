@@ -9,5 +9,17 @@
         "name": "Edward Comley"
     },
     "items": [
+        {
+            "id": "https://www.ebcomley.com/upgrade-test-and-deploy-repeat/",
+            "url": "https://www.ebcomley.com/upgrade-test-and-deploy-repeat/",
+            "title": "Upgrade, test and deploy. Repeat.",
+            "author": {
+                "name": "Edward Comley"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-07T09:55:18+01:00",
+            "date_modified": "2026-03-08T10:25:44+00:00"
+        }
     ]
 }
